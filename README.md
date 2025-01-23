@@ -1,13 +1,8 @@
 <h1 align="center">Hi there, I'm Toby</h1>
 <h3 align="center">A PhD student studying at the University of Auckland</h3>
 
-- I’m currently working on my PhD
-
-- I’m currently learning Rust and Go.
-
-- My WIP portfolio website is available at [ttom795.github.io](ttom795.github.io)
-
-- You can reach me at **toby.tomkinson@auckland.ac.nz**
+I’m currently working on my PhD. 
+My WIP portfolio website is available at [ttom795.github.io](ttom795.github.io) and you can reach me at toby.tomkinson@auckland.ac.nz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
