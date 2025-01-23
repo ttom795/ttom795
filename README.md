@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Toby</h1>
-<h3 align="center">A PhD student studying at the University of Auckland</h3>
 
-- I’m currently working on my PhD.
+- I’m currently a PhD student studying at the University of Auckland.
 - Most of my projects can be found here or on my WIP portfolio website, [ttom795.github.io](ttom795.github.io)
 - You can reach me at toby.tomkinson@auckland.ac.nz</p>
 
