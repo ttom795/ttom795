@@ -5,10 +5,12 @@
 - Most of my projects can be found here or on my WIP portfolio website, [ttom795.github.io](ttom795.github.io)
 - You can reach me at toby.tomkinson@auckland.ac.nz</p>
 
-<h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/toby-j-tomkinson" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toby-j-tomkinson" height="30" width="40" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/toby-j-tomkinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toby-j-tomkinson" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tobytomkinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tobytomkinson" height="30" width="40" /></a>
+</p>
+
 
 <table>
   <tr>
