@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Toby</h1>
 <h3 align="center">A PhD student studying at the University of Auckland</h3>
 
-<p>I’m currently working on my PhD.</p>
-<p>My WIP portfolio website is available at [ttom795.github.io](ttom795.github.io) and you can reach me at toby.tomkinson@auckland.ac.nz</p>
+<img src="https://raw.githubusercontent.com/ttom795/ttom795/output/snake.svg" alt="Snake animation" />
+
+- I’m currently working on my PhD.
+- All of my projects are available at [ttom795.github.io](ttom795.github.io)
+- You can reach me at toby.tomkinson@auckland.ac.nz</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
